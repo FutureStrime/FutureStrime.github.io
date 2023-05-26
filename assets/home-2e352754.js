@@ -1,0 +1,1 @@
+import{_ as r}from"./_plugin-vue_export-helper-c27b6911.js";import{l as e,t as o,m as _}from"./index-23bf0e44.js";const n={},s={style:{"text-align":"center"}};function a(t,c){return e(),o("p",s,"HOME")}const m=r(n,[["render",a]]),i={__name:"home",setup(t){return(c,p)=>(e(),_(m))}};export{i as default};
